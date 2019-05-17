@@ -107,3 +107,7 @@ body {
     -o-background-size: cover;
     background-size: cover;
 }
+
+#padMePls {
+    padding-top: 60px;
+}
